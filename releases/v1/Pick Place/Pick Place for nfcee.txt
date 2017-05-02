@@ -1,0 +1,104 @@
+Altium Designer Pick and Place Locations
+Z:\Project\electronics\nfsee\release\output\Pick Place\Pick Place for nfsee.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       02/04/17
+Time:       17:12
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator     Comment           Layer       Footprint        Center-X(mil) Center-Y(mil) Rotation Description                                                                                      
+TP_SDM_TX      Test point        BottomLayer TP               1019.000      -760.000      90       Test point                                                                                       
+TP_SDM_TX_EN   Test point        BottomLayer TP               914.000       -760.000      90       Test point                                                                                       
+C101           22uF              TopLayer    C1210            179.000       -776.000      180      CAP CERA 22uF X5R 16V 1210                                                                       
+C102           470nF             TopLayer    1608[0603]       204.000       -648.000      180      CAP CERA 470nF X5R 16V 10% 0402                                                                  
+C103           470nF             TopLayer    1608[0603]       223.000       -359.000      180      CAP CERA 470nF X5R 16V 10% 0402                                                                  
+C104           100nF             TopLayer    1608[0603]       343.000       -1888.000     90       CAP CERA 100nF X7R 16V 10% 0402                                                                  
+C105           100nF             TopLayer    1608[0603]       636.000       -2071.000     90       CAP CERA 100nF X7R 16V 10% 0402                                                                  
+C106           100nF             TopLayer    1608[0603]       1344.000      -1092.000     90       CAP CERA 100nF X7R 16V 10% 0402                                                                  
+C107           4.7uF             TopLayer    1608[0603]       1284.000      -602.000      270      CAP CERA 4.7uF X5R 6.3V 20% 0402                                                                 
+C108           100nF             TopLayer    1608[0603]       1341.000      -602.000      270      CAP CERA 100nF X7R 16V 10% 0402                                                                  
+C109           100nF             TopLayer    1608[0603]       1171.000      -487.000      180      CAP CERA 100nF X7R 16V 10% 0402                                                                  
+C110           100nF             TopLayer    1608[0603]       869.000       -506.000      270      CAP CERA 100nF X7R 16V 10% 0402                                                                  
+C111           100nF             TopLayer    1608[0603]       677.000       -1005.000     270      CAP CERA 100nF X7R 16V 10% 0402                                                                  
+C112           4.7uF             TopLayer    1608[0603]       935.500       -506.000      270      CAP CERA 4.7uF X5R 6.3V 20% 0402                                                                 
+C113           100nF             TopLayer    1608[0603]       1189.000      -1234.000     360      CAP CERA 100nF X7R 16V 10% 0402                                                                  
+C114           5pF               TopLayer    1608[0603]       1517.000      -1304.000     180      CAP CERA 5pF C0G 50V 5% 0402                                                                     
+C115           5pF               TopLayer    1608[0603]       1585.000      -1134.000     90       CAP CERA 5pF C0G 50V 5% 0402                                                                     
+C116           18pF              TopLayer    1608[0603]       1517.000      -1020.000     180      CAP CERA 18pF C0G 16V 5% 0402                                                                    
+C117           18pF              TopLayer    1608[0603]       1514.000      -660.000      360      CAP CERA 18pF C0G 16V 5% 0402                                                                    
+C118           15pF              TopLayer    1608[0603]       589.000       -1509.000     270      CAP CERA 15pF C0G 50V 5% 0603                                                                    
+C119           15pF              TopLayer    1608[0603]       702.000       -1403.000     360      CAP CERA 15pF C0G 50V 5% 0603                                                                    
+C120           10nF              TopLayer    1608[0603]       776.000       -1800.000     90       CAP CERA 10nF 16V 10% 0603                                                                       
+C121           2.2uF             TopLayer    1608[0603]       831.333       -1800.000     90       CAP CERA 2.2uF X5R 10V 10% 0603                                                                  
+C122           10nF              TopLayer    1608[0603]       942.000       -1800.000     90       CAP CERA 10nF 16V 10% 0603                                                                       
+C123           2.2uF             TopLayer    1608[0603]       886.667       -1800.000     90       CAP CERA 2.2uF X5R 10V 10% 0603                                                                  
+C124           10nF              TopLayer    1608[0603]       1150.000      -1533.000     270      CAP CERA 10nF 16V 10% 0603                                                                       
+C125           2.2uF             TopLayer    1608[0603]       1203.000      -1522.000     270      CAP CERA 2.2uF X5R 10V 10% 0603                                                                  
+C126           10nF              TopLayer    1608[0603]       675.000       -1669.000     90       CAP CERA 10nF 16V 10% 0603                                                                       
+C127           2.2uF             TopLayer    1608[0603]       622.000       -1669.000     90       CAP CERA 2.2uF X5R 10V 10% 0603                                                                  
+C128           10nF              TopLayer    1608[0603]       760.000       -1721.000     360      CAP CERA 10nF 16V 10% 0603                                                                       
+C129           2.2uF             TopLayer    1608[0603]       760.000       -1672.000     360      CAP CERA 2.2uF X5R 10V 10% 0603                                                                  
+C130           1.5nF             TopLayer    1608[0603]       997.000       -1969.000     180      CAP CERA 1.5nFF X7R 10V 10% 0603                                                                 
+C131           1.5nF             TopLayer    1608[0603]       997.000       -1897.000     180      CAP CERA 1.5nFF X7R 10V 10% 0603                                                                 
+C132           1.2nF             TopLayer    1608[0603]       1103.000      -1930.500     180      CAP CERA 1.2nF X7R 50V 10% 0603                                                                  
+C133           1.2nF             TopLayer    1608[0603]       1103.000      -1865.000     360      CAP CERA 1.2nF X7R 50V 10% 0603                                                                  
+C134           680pF             TopLayer    1608[0603]       1103.000      -1799.500     360      CAP CERA 680pF X7R 10V 10% 0603                                                                  
+C135           10pF              TopLayer    1608[0603]       1190.000      -1834.000     90       CAP CERA 10pF C0G 50V 5% 0603                                                                    
+C136           220pF             TopLayer    1608[0603]       1193.000      -1705.000     90       CAP CERA 220pF X7R 25V 10% 0603                                                                  
+C137           680pF             TopLayer    1608[0603]       1242.000      -1614.000     360      CAP CERA 680pF X7R 10V 10% 0603                                                                  
+C138           100pF             TopLayer    1608[0603]       1249.333      -1705.000     90       CAP CERA 100pF X7R 10V 10% 0603                                                                  
+C139           27pF              TopLayer    1608[0603]       1305.667      -1705.000     270      CAP CERA 27pF C0G 50V 1% 0603                                                                    
+C140           47pF              TopLayer    1608[0603]       1389.000      -1616.000     180      CAP CERA 47pF NP0 25V 10%                                                                        
+C141           10pF              TopLayer    1608[0603]       1389.000      -1555.000     360      CAP CERA 10pF C0G 50V 5% 0603                                                                    
+C142           56pF              TopLayer    1608[0603]       1474.667      -1705.000     270      CAP CERA 56pF C0G 50V 5%                                                                         
+C143           ND                TopLayer    1608[0603]       1531.000      -1705.000     270      CAP CERA                                                                                         
+D101           VDD               TopLayer    J1-0603          185.000       -1395.000     180      LED GREEN VF 2.4 20mA                                                                            
+D102           ACT               TopLayer    J1-0603          184.000       -1495.000     180      LED GREEN VF 2.4 20mA                                                                            
+D103           USR               TopLayer    J1-0603          190.000       -1609.000     180      LED GREEN VF 2.4 20mA                                                                            
+L101           150nH             TopLayer    1608[0603]       1103.000      -1996.000     360      IND 150nH 5% 200mA 0603                                                                          
+L102           330nH             TopLayer    1608[0603]       1103.000      -1734.000     360      IND 330nH 5% 100mA 0603                                                                          
+R103           1.5k              TopLayer    J1-0603          348.000       -1367.000     180      RES 1.5k 1% 0603                                                                                 
+R104           680R              TopLayer    J1-0603          348.000       -1442.500     180      RES 680R 1% 0603                                                                                 
+R105           680R              TopLayer    J1-0603          348.000       -1518.000     180      RES 680R 1% 0603                                                                                 
+R106           100k              TopLayer    J1-0603          343.000       -1740.000     90       RES 100k 5% 0603                                                                                 
+R107           100k              TopLayer    J1-0603          636.000       -1947.000     270      RES 100k 5% 0603                                                                                 
+R108           100k              TopLayer    J1-0603          197.410       -129.000      270      RES 100k 5% 0603                                                                                 
+R109           100k              TopLayer    J1-0603          418.000       -462.000      180      RES 100k 5% 0603                                                                                 
+R110           100k              TopLayer    J1-0603          1002.000      -506.000      270      RES 100k 5% 0603                                                                                 
+R111           100k              TopLayer    J1-0603          704.000       -750.000      360      RES 100k 5% 0603                                                                                 
+R112           100k              TopLayer    J1-0603          705.000       -691.000      360      RES 100k 5% 0603                                                                                 
+R113           0R                TopLayer    J1-0603          1362.400      -1819.000     270      RES 0R 1% 0603                                                                                   
+R114           0R                TopLayer    J1-0603          1362.000      -1705.000     270      RES 0R 1% 0603                                                                                   
+R115           1k                TopLayer    J1-0603          1418.333      -1705.000     270      RES 1k 1% 0603                                                                                   
+R116           0R                TopLayer    J1-0603          878.000       -1280.000     90       RES 0R 1% 0603                                                                                   
+R117           0R                TopLayer    J1-0603          820.000       -1279.000     90       RES 0R 1% 0603                                                                                   
+U101           STM32F411RCT6     TopLayer    LQFP64           1052.000      -862.000      180      ARM Microcontrollers - MCU STM32 Dyn Eff MCU 256 K 100 MHz CPU                                   
+U102           TRF7970A          TopLayer    PVQFN-32N        951.000       -1533.000     90       Multiprotocol Fully Integrated 13.56-MHz RFID and Near Field Communication  (NFC) Transceiver IC 
+U103           STF202            TopLayer    TSOP6            449.000       -1065.000     90       USB Filter with ESD  Protection                                                                  
+ANT101         Antenna connector TopLayer    UFL_SMD          1519.098      -1976.000     90       Antenna connector                                                                                
+J101           DEBUG             TopLayer    MicroMaTch_8P    589.000       -219.000      270      MicroMatch 8 pos                                                                                 
+J102           USB_micro         TopLayer    MOLEX_47589-0001 185.055       -1069.724     0                                                                                                         
+SW101          RESET             TopLayer    KMR641NG         196.000       -2014.000     90       SWITCH, TACTILE, SPST-NO, 50mA, SMD                                                              
+SW102          BOOT/USR          TopLayer    KMR641NG         493.000       -2014.000     90       SWITCH, TACTILE, SPST-NO, 50mA, SMD                                                              
+TP_ASK/OOK     Test point        BottomLayer TP               684.000       -869.250      90       Test point                                                                                       
+TP_BIT_CLK     Test point        BottomLayer TP               816.000       -643.750      360      Test point                                                                                       
+TP_EN2         Test point        BottomLayer TP               684.000       -643.750      180      Test point                                                                                       
+TP_EN          Test point        BottomLayer TP               684.000       -756.500      180      Test point                                                                                       
+TP_IRQ         Test point        BottomLayer TP               1221.000      -1231.000     90       Test point                                                                                       
+TP_SPI1/3_MISO Test point        BottomLayer TP               1342.000      -326.000      90       Test point                                                                                       
+TP_SPI1/3_MOSI Test point        BottomLayer TP               1093.667      -1231.000     90       Test point                                                                                       
+TP_SPI1_CS     Test point        BottomLayer TP               1004.500      -326.000      90       Test point                                                                                       
+TP_SPI1_SCK    Test point        BottomLayer TP               1173.250      -326.000      90       Test point                                                                                       
+TP_SPI3_MOSI   Test point        BottomLayer TP               1602.000      -553.000      90       Test point                                                                                       
+TP_SPI3_SCK    Test point        BottomLayer TP               966.333       -1231.000     90       Test point                                                                                       
+Y101           32.768kHz         TopLayer    XTAL2            1486.000      -1151.000     90       CRYSTAL 32.768KHz 6pF 20PPM SMD                                                                  
+Y102           8MHz              TopLayer    ABM3B            1519.000      -852.000      90       CRYSTAL 8MHZ 18PF SMD                                                                            
+Y103           13.56MHz          TopLayer    CX2520DB         704.000       -1508.000     360      CRYSTAL 13.56MHZ 12PF SMD                                                                        
+U104           MIC5528           TopLayer    DFN-6N           224.000       -497.000      270      3.3V, 500A, Low-Voltage, Low-Dropout Regulator                                                   
+R118           0R                TopLayer    J1-0603          1507.000      -524.000      360      RES 0R 1% 0603                                                                                   
+R119           0R                TopLayer    J1-0603          1411.000      -498.409      270      RES 0R 1% 0603                                                                                   
+ANT102         NFC_ANT           TopLayer    NFC_ANT          1619.016      -1705.315     270      PCB NFC ANTENNA                                                                                  

@@ -1,0 +1,12 @@
+DRC Rules Export File for PCB: Z:\Project\electronics\nfsee\Nfsee\nfsee.PcbDoc
+RuleKind=Width|RuleName=Width_PCB_ANT|Scope=Board|Minimum=50.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit_Antenna|Scope=Board|Allowed=1
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_via|Scope=Board|Minimum=-14.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=Width_PWR_LOW|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.50
+RuleKind=Clearance|RuleName=Clearance_ANT|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=Clearance_ANT_2|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=Clearance_PolyToPoly|Scope=Board|Minimum=6.50
